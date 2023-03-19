@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 访客总量：
 ![Visitor Count](https://profile-counter.glitch.me/kaliCYH/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaliCYH)](https://github.com/kaliCYH/github-readme-stats)
