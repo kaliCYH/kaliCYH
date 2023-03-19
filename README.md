@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 [浙江财经大学东方学院](https://www.zufedfc.edu.cn/)
+- 🔭 就读于 [浙江财经大学东方学院](https://www.zufedfc.edu.cn/)
 
 ![Kalicyh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaliCYH&show_icons=true&theme=tokyonight)
 
