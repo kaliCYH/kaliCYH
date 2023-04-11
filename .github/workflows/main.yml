@@ -46,8 +46,7 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: 博客
           plugin_screenshot_url: https://www.kalicyh.love
-
-          plugin_screenshot_wait: 10
+          plugin_screenshot_wait: 5
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
