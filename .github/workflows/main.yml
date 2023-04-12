@@ -49,11 +49,6 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://www.kalicyh.love/
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
           plugin_screenshot_wait: 20
           plugin_support: yes
           plugin_tweets: yes
